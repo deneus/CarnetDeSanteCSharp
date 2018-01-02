@@ -1,6 +1,0 @@
-C:\Users\Anthony\source\repos\HealthhChain\HealthhChain\bin\Debug\HealthhChain.dll
-C:\Users\Anthony\source\repos\HealthhChain\HealthhChain\bin\Debug\HealthhChain.pdb
-C:\Users\Anthony\source\repos\HealthhChain\HealthhChain\bin\Debug\Neo.SmartContract.Framework.dll
-C:\Users\Anthony\source\repos\HealthhChain\HealthhChain\obj\Debug\HealthhChain.csproj.CoreCompileInputs.cache
-C:\Users\Anthony\source\repos\HealthhChain\HealthhChain\obj\Debug\HealthhChain.dll
-C:\Users\Anthony\source\repos\HealthhChain\HealthhChain\obj\Debug\HealthhChain.pdb
